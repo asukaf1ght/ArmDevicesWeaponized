@@ -2,7 +2,7 @@
 
 ### 202005 
 
-- [ARM设备武器化指南(攻)（附件）](202005ArmDevicesWeaponizedGuide/Attack)
+- [ARM设备武器化指南(攻)（附件）](202005.ArmDevicesWeaponizedGuide/Attack)
 
 ### 进群交流：
 
